@@ -7,6 +7,8 @@ Este repositório contém a modelagem de dados do sistema **Flexempresta**, abor
 
 O diagrama abaixo representa o modelo conceitual do sistema **Flexempresta**, desenvolvido com a notação Entidade-Relacionamento (ER).
 
+Modelo de diagrama utilizado na ferramenta: Chen Entity Relationship Diagram
+
 ![Modelo Conceitual](./Modelagem%20Conceitual%20de%20dados%20Flexempresta.png)
 
 ### Notação Utilizada (Modelo Entidade-Relacionamento)
